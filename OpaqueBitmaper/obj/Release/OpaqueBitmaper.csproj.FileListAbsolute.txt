@@ -1,0 +1,14 @@
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\bin\Release\OpaqueBitmaper.exe.config
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\bin\Release\OpaqueBitmaper.exe
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\bin\Release\OpaqueBitmaper.pdb
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\MainWindow.g.cs
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\App.g.cs
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper_MarkupCompile.cache
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper_MarkupCompile.lref
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\MainWindow.baml
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.g.resources
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.Properties.Resources.resources
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.csproj.GenerateResource.cache
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.csproj.CoreCompileInputs.cache
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.exe
+E:\Adam\C# Proj\OpaqueBitmaper\OpaqueBitmaper\obj\Release\OpaqueBitmaper.pdb
